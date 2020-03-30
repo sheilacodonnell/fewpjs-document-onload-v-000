@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
-  let text = getE
+  let text = getElementById('text')
 });
